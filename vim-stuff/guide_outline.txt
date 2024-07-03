@@ -1,0 +1,53 @@
+BASICS:
+- hjkl
+- ia
+- <Esc>
+- :w
+- :q
+
+MOVEMENTS:
+- wb WB
+- 0$
+- gg G
+- % {}
+- fF ;,
+- <c-d> <c-u>
+
+ACTIONS:
+- vV <c-v>
+- x
+- dD
+- cC
+- yY
+- pP
+- u
+- <c-r>
+- IA
+- oO
+
+SPECIAL STUFFSAFSA:
+- 123
+- .
+- action -> motion
+- action -> in / around -> thingy (word / paragraph / text
+- J
+- ~
+- v -> Uu
+
+MACROS:
+- https://www.youtube.com/watch?v=QRd6EZ9O0H8
+
+SEARCH:
+- /
+- s/
+- %s/
+- https://www.youtube.com/watch?v=1FniSbRy3xc
+
+COMMANDS:
+- :Ex
+- :3
+- :set number :set asdfsfkasdfas
+- :vs :sp
+
+FULLY USING VIM:
+- NEOVIM CONFIG: https://www.youtube.com/watch?v=5HXINnalrAQ

@@ -1,0 +1,3 @@
+[submodule "arduino-workshop"]
+	path = arduino-workshop
+	url = https://github.com/NycRat/arduino-workshop
