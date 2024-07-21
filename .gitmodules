@@ -1,3 +1,6 @@
 [submodule "arduino-workshop"]
 	path = arduino-workshop
 	url = https://github.com/NycRat/arduino-workshop
+[submodule "comment-section-project"]
+	path = comment-section-project
+	url = https://github.com/NycRat/comment-section-project
