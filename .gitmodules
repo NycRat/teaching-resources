@@ -4,3 +4,6 @@
 [submodule "comment-section-project"]
 	path = comment-section-project
 	url = https://github.com/NycRat/comment-section-project
+[submodule "nextjs-mongodb-example"]
+	path = nextjs-mongodb-example
+	url = https://github.com/NycRat/nextjs-mongodb-example
