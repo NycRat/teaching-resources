@@ -1,0 +1,33 @@
+C++, Learn the Basics
+
+Time: 4pm
+
+Start: September 3
+
+End: October 22
+
+Course Overview
+
+- Week 1: Replit, Basic Syntax, Output, Input, Comments
+- Week 2: Variables, Types, Operators, Code format
+- Week 3: Statements, Flow control, Scope
+- Week 4: Array, Vector, For each loop
+- Week 5: Functions, Parameters, Return values
+- Week 6: Pointers, References
+- Week 7: End projects
+- Week 8: Project reviews, Continuing c++ learning, Other languages
+
+End Goal: Be able to code a simple game
+
+- Number Guessing Game
+- Tic-tac-toe
+- Hangman
+
+Class expectations
+
+Students are expected to pay attention, and follow along in class.  
+Students are encouraged to ask any questions they have in class.
+
+Homework expectations
+
+Students are expected to spend around 15-45 minutes on homework each week.
